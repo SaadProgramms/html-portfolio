@@ -1,2 +1,2 @@
 # html-portfolio
-Author: Saad ur Rehman
+Author: Saad ur Rehman (Front End Developr)
